@@ -1,11 +1,8 @@
 # LCD1in8
 
-waveshare electronics
-
-![Waveshare_logo.png](Waveshare_logo.png)
 
 # Package product
-https://www.waveshare.com/1.8inch-lcd-for-micro-bit.htm
+
 
 # test
 Test can refer to test.ts
