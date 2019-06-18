@@ -202,7 +202,7 @@ void LCD_Driver::LCD_InitReg(void)
 	LCD_WriteData_8Bit(0x11);	
 	LCD_WriteReg(0x21);	
 	LCD_WriteReg(0x36);  
-	LCD_WriteData_8Bit(0xd0); //08	
+	LCD_WriteData_8Bit(0x67); //08	
 	LCD_WriteReg(0x3a);  
  	LCD_WriteData_8Bit(0x05);	
 	LCD_WriteReg(0xb4);  
