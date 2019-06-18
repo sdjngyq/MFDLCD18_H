@@ -1,8 +1,10 @@
 # LCD1in8
 
+Used to test portrait display
 
 # Package product
 
+www.mcufriend.com
 
 # test
 Test can refer to test.ts
